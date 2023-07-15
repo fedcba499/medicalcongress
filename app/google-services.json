@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "936125892583",
+    "project_id": "medicalconference-339f5",
+    "storage_bucket": "medicalconference-339f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936125892583:android:4979067e068b0f217e5f42",
+        "android_client_info": {
+          "package_name": "com.advay.medicalcongress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936125892583-vbv4k4vcvof9acm1b2sqhrq7ts5fhm6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChKWY-FRcy8LFWvh9lrH0dZ7UKrzPBOCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936125892583-vbv4k4vcvof9acm1b2sqhrq7ts5fhm6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
