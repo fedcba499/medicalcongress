@@ -19,18 +19,6 @@ import java.net.URL
 
 class MyFirebaseMessagingService : FirebaseMessagingService() {
 
-    // Debugging
-
-    override fun onCreate() {
-        super.onCreate()
-        Log.v("Firebase", "Service Created")
-    }
-
-    override fun onDestroy() {
-        super.onDestroy()
-        Log.v("Firebase", "Service Destroyed...")
-    }
-
     // Override onNewToken to get new token
     override fun onNewToken(token: String) {
         super.onNewToken(token)
